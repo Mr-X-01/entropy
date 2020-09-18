@@ -12,11 +12,11 @@
 • <code>./install.sh</code><br>
 
 # How to start?
-## Example of attacking a single webcam
+ Example of attacking a single webcam
 • <code>entropy -b 1 -i 192.168.1.100:80 -v</code><br>
-## Example of attacking webcams from a file
+ Example of attacking webcams from a file
 • <code>entropy -b 2 -l iplist.txt -v</code><br>
-## Example of attacking webcams through Shodan
+ Example of attacking webcams through Shodan
 • <code>entropy -b 2 -v --shodan PSKINdQe1GyxGgecYz2191H2JoS9qvgD</code><br>
 
 # How to uninstall?
