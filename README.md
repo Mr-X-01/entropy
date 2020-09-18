@@ -6,9 +6,11 @@
 • <code>apt upgrade -y</code><br>
 • <code>apt install python -y</code><br>
 • <code>apt install git -y</code><br>
+• <code>apt install tsu -y</code><br> 
 • <code>git clone https://github.com/Mr-X-01/entropy</code><br>
 • <code>cd entropy</code><br>
 • <code>chmod +x install.sh</code><br>
+• <code>tsu</code><br> 
 • <code>./install.sh</code><br>
 • <code>pip3 install -r requirements.txt</code><br>
 
