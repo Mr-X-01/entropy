@@ -25,12 +25,9 @@
 • <code>./uninstall.sh</code><br>
 
 # Entropy Toolkit execution
-```
 To run Entropy Toolkit you should 
 execute the following command.
-```
-> entropy
-
+• <code>entropy</code><br>
 ```
 usage: entropy [-h] [-b [1|2]] [-o <output_path>] [--timeout <timeout>]
                [-t <tasks>] [-c <count>] [-q | -v]
