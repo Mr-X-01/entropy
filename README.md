@@ -10,6 +10,7 @@
 • <code>cd entropy</code><br>
 • <code>chmod +x install.sh</code><br>
 • <code>./install.sh</code><br>
+• <code>pip3 install -r requirements.txt</code><br>
 
 # How to start?
 <b>Example of attacking a single webcam</b><br>
