@@ -12,11 +12,11 @@
 • <code>./install.sh</code><br>
 
 # How to start?
-## Example of attacking a single webcam<br>
+## <b>Example of attacking a single webcam</b><br>
 • <code>entropy -b 1 -i 192.168.1.100:80 -v</code><br>
-## Example of attacking webcams from a file<br>
+## <b>Example of attacking webcams from a file</b><br>
 • <code>entropy -b 2 -l iplist.txt -v</code><br>
-## Example of attacking webcams through Shodan<br>
+## <b>Example of attacking webcams through Shodan</b><br>
 • <code>entropy -b 2 -v --shodan PSKINdQe1GyxGgecYz2191H2JoS9qvgD</code><br>
 
 # How to uninstall?
@@ -24,7 +24,7 @@
 • <code>chmod +x uninstall.sh</code><br>
 • <code>./uninstall.sh</code><br>
 
-# Entropy Toolkit execution<br>
+# <b>Entropy Toolkit execution</b><br>
 To run Entropy Toolkit you should 
 execute the following command.
 • <code>entropy</code><br>
