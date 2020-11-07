@@ -1,4 +1,6 @@
-#!/bin/bash
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
 
 printf '\033]2;uninstall.sh\a'
 
