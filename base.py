@@ -1,4 +1,6 @@
-#!/usr/bin/python3
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
 
 import subprocess
 import time
